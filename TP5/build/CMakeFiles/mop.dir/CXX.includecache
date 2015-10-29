@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/hgfs/work/S5/TPs/MOP/TP5/appart.cc
+appart.h
+/mnt/hgfs/work/S5/TPs/MOP/TP5/appart.h
+habitation.h
+/mnt/hgfs/work/S5/TPs/MOP/TP5/habitation.h
+
+/mnt/hgfs/work/S5/TPs/MOP/TP5/appart.h
+habitation.h
+/mnt/hgfs/work/S5/TPs/MOP/TP5/habitation.h
+
+/mnt/hgfs/work/S5/TPs/MOP/TP5/bien.h
+
+/mnt/hgfs/work/S5/TPs/MOP/TP5/habitation.cc
+habitation.h
+/mnt/hgfs/work/S5/TPs/MOP/TP5/habitation.h
+
+/mnt/hgfs/work/S5/TPs/MOP/TP5/habitation.h
+bien.h
+/mnt/hgfs/work/S5/TPs/MOP/TP5/bien.h
+
